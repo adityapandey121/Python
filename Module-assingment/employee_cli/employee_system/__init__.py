@@ -1,0 +1,1 @@
+"""Employee management modules for the CLI project."""
