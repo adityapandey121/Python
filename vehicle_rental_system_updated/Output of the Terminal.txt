@@ -1,0 +1,239 @@
+Output of the Terminal
+PS C:\Users\aditya.shawarn\OneDrive - VCTI\Desktop\pyhton\vehicle_rental_system_updated> python main.py
+
+==================================================
+       VEHICLE RENTAL MANAGEMENT SYSTEM
+==================================================
+1. Add Vehicle
+2. Add Customer
+3. Show Available Vehicles
+4. Show Customers
+5. Search Vehicles
+6. Rent Vehicle
+7. Make Payment
+8. Return Vehicle & Print Invoice
+9. Show Rental History
+10. Exit
+==================================================
+Enter choice: 1
+
+--- ADD VEHICLE ---
+Vehicle type (Car/Bike/Van): Car
+Vehicle ID: V100
+Registration number: BR51
+Brand: BMW
+Model: X3
+Daily rental rate: 2000
+Vehicle added successfully.
+
+==================================================
+       VEHICLE RENTAL MANAGEMENT SYSTEM
+==================================================
+1. Add Vehicle
+2. Add Customer
+3. Show Available Vehicles
+4. Show Customers
+5. Search Vehicles
+6. Rent Vehicle
+7. Make Payment
+8. Return Vehicle & Print Invoice
+9. Show Rental History
+10. Exit
+==================================================
+Enter choice: 2
+
+--- ADD CUSTOMER ---
+Customer ID: ADI12
+Name: ADITYA
+Email: aditya.gmai.com
+Driving licence number: 123
+Customer added successfully.
+
+==================================================
+       VEHICLE RENTAL MANAGEMENT SYSTEM
+==================================================
+1. Add Vehicle
+2. Add Customer
+3. Show Available Vehicles
+4. Show Customers
+5. Search Vehicles
+6. Rent Vehicle
+7. Make Payment
+8. Return Vehicle & Print Invoice
+9. Show Rental History
+10. Exit
+==================================================
+Enter choice: 3
+
+--- AVAILABLE VEHICLES ---
+V100 | Car | BMW | X3 | Rs. 2000.00/day | Available
+
+==================================================
+       VEHICLE RENTAL MANAGEMENT SYSTEM
+==================================================
+1. Add Vehicle
+2. Add Customer
+3. Show Available Vehicles
+4. Show Customers
+5. Search Vehicles
+6. Rent Vehicle
+7. Make Payment
+8. Return Vehicle & Print Invoice
+9. Show Rental History
+10. Exit
+==================================================
+Enter choice: 4
+
+--- CUSTOMERS ---
+ADI12 | ADITYA | aditya.gmai.com | Licence: 123 | Rentals: 0
+
+==================================================
+       VEHICLE RENTAL MANAGEMENT SYSTEM
+==================================================
+1. Add Vehicle
+2. Add Customer
+3. Show Available Vehicles
+4. Show Customers
+5. Search Vehicles
+6. Rent Vehicle
+7. Make Payment
+8. Return Vehicle & Print Invoice
+9. Show Rental History
+10. Exit
+==================================================
+Enter choice: 5
+
+--- SEARCH VEHICLES ---
+1. By Vehicle ID
+2. By Vehicle Type
+3. By Maximum Daily Rate
+Choice: 1
+Vehicle ID: V100
+V100 | Car | BMW | X3 | Rs. 2000.00/day | Available
+
+==================================================
+       VEHICLE RENTAL MANAGEMENT SYSTEM
+==================================================
+1. Add Vehicle
+2. Add Customer
+3. Show Available Vehicles
+4. Show Customers
+5. Search Vehicles
+6. Rent Vehicle
+7. Make Payment
+8. Return Vehicle & Print Invoice
+9. Show Rental History
+10. Exit
+==================================================
+Enter choice: 6
+
+--- RENT VEHICLE ---
+Customer ID: ADI12
+Vehicle ID: V100
+Rental days: 7
+
+Rental created.
+Rental ID: R1001
+Base amount: Rs. 14000.00
+Status: Payment Pending
+Use option 7 to make payment.
+
+==================================================
+       VEHICLE RENTAL MANAGEMENT SYSTEM
+==================================================
+1. Add Vehicle
+2. Add Customer
+3. Show Available Vehicles
+4. Show Customers
+5. Search Vehicles
+6. Rent Vehicle
+7. Make Payment
+8. Return Vehicle & Print Invoice
+9. Show Rental History
+10. Exit
+==================================================
+Enter choice: 7
+
+--- MAKE PAYMENT ---
+R1001 | ADITYA | V100 | Rs. 14000.00
+Rental ID: R1001
+1. Card
+2. UPI
+Payment method: 2
+UPI ID: 8651385112@YBL
+Payment successful.
+Transaction ID: UPI-264721E7
+Rental status: Confirmed
+
+==================================================
+       VEHICLE RENTAL MANAGEMENT SYSTEM
+==================================================
+1. Add Vehicle
+2. Add Customer
+3. Show Available Vehicles
+4. Show Customers
+5. Search Vehicles
+6. Rent Vehicle
+7. Make Payment
+8. Return Vehicle & Print Invoice
+9. Show Rental History
+10. Exit
+==================================================
+Enter choice: 8
+
+--- RETURN VEHICLE ---
+R1001 | ADITYA | V100 | Due: 2026-09-03
+Rental ID: R1001
+Return date YYYY-MM-DD (Enter for today): 2026-08-27
+
+=============================================
+              FINAL INVOICE
+=============================================
+Rental ID      : R1001
+Customer       : ADITYA
+Vehicle        : V100
+Rental days    : 7
+Base amount    : Rs. 14000.00
+Late fee       : Rs. 0.00
+Final amount   : Rs. 14000.00
+Payment method : UPI
+Transaction ID : UPI-264721E7
+Status         : Returned
+=============================================
+
+==================================================
+       VEHICLE RENTAL MANAGEMENT SYSTEM
+==================================================
+1. Add Vehicle
+2. Add Customer
+3. Show Available Vehicles
+4. Show Customers
+5. Search Vehicles
+6. Rent Vehicle
+7. Make Payment
+8. Return Vehicle & Print Invoice
+9. Show Rental History
+10. Exit
+==================================================
+Enter choice: 9
+
+--- RENTAL HISTORY ---
+R1001 | Car | V100 | 7 days | Rs. 14000.00 | Returned
+
+==================================================
+       VEHICLE RENTAL MANAGEMENT SYSTEM
+==================================================
+1. Add Vehicle
+2. Add Customer
+3. Show Available Vehicles
+4. Show Customers
+5. Search Vehicles
+6. Rent Vehicle
+7. Make Payment
+8. Return Vehicle & Print Invoice
+9. Show Rental History
+10. Exit
+==================================================
+Enter choice: 10
+Thank you for using the system.
+PS C:\Users\aditya.shawarn\OneDrive - VCTI\Desktop\pyhton\vehicle_rental_system_updated>
