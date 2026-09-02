@@ -1,0 +1,36 @@
+----- Iterator Example -----
+John
+Mary
+David
+Sarah
+Alex
+Lisa
+
+----- Generator Example -----
+John
+Mary
+David
+Sarah
+Alex
+Lisa
+
+----- IT Employees -----
+John
+David
+Alex
+
+----- Salary Filter Example -----
+John: False
+David: True
+
+----- Employee Report -----
+Enter department: Enter minimum salary: [START] generate_report
+Report saved successfully.
+[END] generate_report
+[START] calculate_average_salary
+[END] calculate_average_salary
+
+Selected Employees:
+103 - David - IT - 65000
+105 - Alex - IT - 75000
+Average Salary: 70000.00
