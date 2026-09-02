@@ -1,0 +1,87 @@
+INFO: Application started.
+INFO: Student processing started.
+INFO: Student name received.
+INFO: Number of subjects received.
+INFO: Marks entered successfully.
+INFO: Marks entered successfully.
+INFO: Marks entered successfully.
+DEBUG: Average calculated: 85.00
+INFO: Calculation completed.
+INFO: Student statistics calculated successfully.
+INFO: Student processing completed.
+INFO: Processing finished.
+INFO: Application completed.
+ERROR: Invalid number of subjects entered.
+ERROR: Invalid marks entered.
+WARNING: Mark is below passing range.
+ERROR: ZeroDivisionError: number of subjects is zero.
+INFO: Application started.
+INFO: Student processing started.
+INFO: Student name received.
+INFO: Number of subjects received.
+INFO: Marks entered successfully.
+INFO: Marks entered successfully.
+INFO: Marks entered successfully.
+DEBUG: Average calculated: 85.00
+INFO: Calculation completed.
+INFO: Student statistics calculated successfully.
+INFO: Student processing completed.
+INFO: Processing finished.
+INFO: Application completed.
+INFO: Application started.
+INFO: Student processing started.
+INFO: Student name received.
+ERROR: Invalid number of subjects entered.
+INFO: Number of subjects received.
+ERROR: Invalid marks entered.
+INFO: Marks entered successfully.
+INFO: Marks entered successfully.
+INFO: Marks entered successfully.
+DEBUG: Average calculated: 85.00
+INFO: Calculation completed.
+INFO: Student statistics calculated successfully.
+INFO: Student processing completed.
+INFO: Processing finished.
+INFO: Application completed.
+INFO: Application started.
+INFO: Student processing started.
+INFO: Student name received.
+INFO: Number of subjects received.
+ERROR: ZeroDivisionError: number of subjects is zero.
+INFO: Processing finished.
+INFO: Application completed.
+INFO: Application started.
+INFO: Student processing started.
+INFO: Student name received.
+INFO: Number of subjects received.
+INFO: Marks entered successfully.
+INFO: Marks entered successfully.
+INFO: Marks entered successfully.
+DEBUG: Average calculated: 85.00
+INFO: Calculation completed.
+INFO: Student statistics calculated successfully.
+INFO: Student processing completed.
+INFO: Processing finished.
+INFO: Application completed.
+INFO: Application started.
+INFO: Student processing started.
+INFO: Student name received.
+ERROR: Invalid number of subjects entered.
+INFO: Number of subjects received.
+ERROR: Invalid marks entered.
+INFO: Marks entered successfully.
+INFO: Marks entered successfully.
+INFO: Marks entered successfully.
+DEBUG: Average calculated: 85.00
+INFO: Calculation completed.
+INFO: Student statistics calculated successfully.
+INFO: Student processing completed.
+INFO: Processing finished.
+INFO: Application completed.
+INFO: Application started.
+INFO: Student processing started.
+INFO: Student name received.
+INFO: Number of subjects received.
+ERROR: ZeroDivisionError: number of subjects is zero.
+INFO: Processing finished.
+INFO: Application completed.
